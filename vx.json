@@ -1,0 +1,43 @@
+{
+    "created_time": "2021-07-30T06:44:37Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-30T06:46:00Z",
+            "id": "0",
+            "modified_time": "2021-07-30T08:17:38Z",
+            "name": "定义Spring Bean的方式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-30T08:23:22Z",
+            "id": "0",
+            "modified_time": "2021-07-30T08:54:48Z",
+            "name": "单例池、单例模式、单例Bean.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-30T08:55:20Z",
+            "id": "0",
+            "modified_time": "2021-07-30T08:55:22Z",
+            "name": "BeanFactory.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".git"
+        },
+        {
+            "name": "Code"
+        }
+    ],
+    "id": "4",
+    "modified_time": "2021-07-30T06:44:37Z",
+    "version": "1"
+}
